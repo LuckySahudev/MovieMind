@@ -20,3 +20,22 @@ ERA
 3. New after 2015
 
 DAILY ADD 10 MOVIES 
+
+There is begining of adding movies 
+
+1. Action
+
+Bollywood 
+    Old era (12 movies)
+        Sholay
+        Deewar
+        Border
+        Ghayal
+        Don
+        Zanjeer
+        Trishul
+        Ghatak
+        Mr. India
+        Agneepath
+
+
