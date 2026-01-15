@@ -35,7 +35,8 @@ function filterMovies() {
     const genreMatch = movie.genres.some(g =>
       g.toLowerCase().includes(genre)
     );
-
+    let x = industryMatch && genreMatch;
+    console.log(x.length);
     return industryMatch && genreMatch;
   });
 

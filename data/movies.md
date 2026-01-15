@@ -15,27 +15,52 @@ INDUSTRY LIST
 
 ERA
 
-1. Old before 2000
-2. Mid before 2015
-3. New after 2015
+1. b90s
+2. 90s
+3. 00s
+4. 10s
+5. 20s
 
 DAILY ADD 10 MOVIES 
 
 There is begining of adding movies 
 
-1. Action
 
-Bollywood 
-    Old era (12 movies)
+A. Bollywood 
+
+    1. Action
+    Before 90s 
         Sholay
         Deewar
-        Border
-        Ghayal
         Don
         Zanjeer
         Trishul
-        Ghatak
         Mr. India
+        Qurbani 
+        Haqeeqat 
+        Amar Akbar Anthony
+        Garm Hava 
+    90s 
+        Border
+        Ghayal
+        Ghatak
         Agneepath
+        Sarfarosh
+        Satya
+        Vaastav: The Reality
+        Krantiveer
+        Parinda
+        Darr
+    00s
+        Lagaan
+        Rang De Basanti
+        A Wednesday
+        Company
+        Chak De! India
+        Ghajini
+        Omkara
+        Ab Tak Chhappan
+        Kaminey
+        Lakshya
 
 

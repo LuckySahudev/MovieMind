@@ -4,7 +4,7 @@
     "title": "Sholay",
     "industry": "Bollywood",
     "genres": ["Action", "Adventure", "Drama"],
-    "era": "1900s",
+    "era": "b90s",
     "year": 1975,
     "rating": 8.1
   },
@@ -13,26 +13,8 @@
     "title": "Deewar",
     "industry": "Bollywood",
     "genres": ["Action", "Crime", "Drama"],
-    "era": "1900s",
+    "era": "b90s",
     "year": 1975,
-    "rating": 7.9
-  },
-  {
-    "imdbID": "tt0118751",
-    "title": "Border",
-    "industry": "Bollywood",
-    "genres": ["Action", "War", "Drama"],
-    "era": "1900s",
-    "year": 1997,
-    "rating": 7.9
-  },
-  {
-    "imdbID": "tt0099652",
-    "title": "Ghayal",
-    "industry": "Bollywood",
-    "genres": ["Action", "Drama"],
-    "era": "1900s",
-    "year": 1990,
     "rating": 7.9
   },
   {
@@ -40,7 +22,7 @@
     "title": "Don",
     "industry": "Bollywood",
     "genres": ["Action", "Crime", "Thriller"],
-    "era": "1900s",
+    "era": "b90s",
     "year": 1978,
     "rating": 7.8
   },
@@ -49,7 +31,7 @@
     "title": "Zanjeer",
     "industry": "Bollywood",
     "genres": ["Action", "Crime", "Drama"],
-    "era": "1900s",
+    "era": "b90s",
     "year": 1973,
     "rating": 7.5
   },
@@ -58,36 +40,245 @@
     "title": "Trishul",
     "industry": "Bollywood",
     "genres": ["Action", "Drama"],
-    "era": "1900s",
+    "era": "b90s",
     "year": 1978,
     "rating": 7.7
-  },
-  {
-    "imdbID": "tt0116407",
-    "title": "Ghatak",
-    "industry": "Bollywood",
-    "genres": ["Action", "Drama"],
-    "era": "1900s",
-    "year": 1996,
-    "rating": 7.5
   },
   {
     "imdbID": "tt0093578",
     "title": "Mr. India",
     "industry": "Bollywood",
     "genres": ["Action", "Fantasy", "Comedy"],
-    "era": "1900s",
+    "era": "b90s",
     "year": 1987,
     "rating": 7.7
   },
+  {
+    "imdbID": "tt0246879",
+    "title": "Qurbani",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "b80s",
+    "year": 1980,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt0154565",
+    "title": "Haqeeqat",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "Romance"],
+    "era": "b60s",
+    "year": 1964,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0075669",
+    "title": "Amar Akbar Anthony",
+    "industry": "Bollywood",
+    "genres": ["Action", "Comedy", "Drama"],
+    "era": "b70s",
+    "year": 1977,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0073034",
+    "title": "Garm Hava",
+    "industry": "Bollywood",
+    "genres": ["Drama","Action"],
+    "era": "b70s",
+    "year": 1973,
+    "rating": 8.0
+  },
+
+
+
+
   {
     "imdbID": "tt1849718",
     "title": "Agneepath",
     "industry": "Bollywood",
     "genres": ["Action", "Crime", "Drama"],
-    "era": "1900s",
+    "era": "90s",
     "year": 1990,
     "rating": 7.6
+  },
+  {
+    "imdbID": "tt0118751",
+    "title": "Border",
+    "industry": "Bollywood",
+    "genres": ["Action", "War", "Drama"],
+    "era": "90s",
+    "year": 1997,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt0116407",
+    "title": "Ghatak",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama"],
+    "era": "90s",
+    "year": 1996,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0099652",
+    "title": "Ghayal",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama"],
+    "era": "90s",
+    "year": 1990,
+    "rating": 7.9
+  }, 
+  {
+    "imdbID": "tt0200087",
+    "title": "Sarfarosh",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "90s",
+    "year": 1999,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0195231",
+    "title": "Satya",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "90s",
+    "year": 1998,
+    "rating": 8.3
+  },
+  {
+    "imdbID": "tt0220832",
+    "title": "Vaastav: The Reality",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "90s",
+    "year": 1999,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt0116744",
+    "title": "Krantiveer",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama"],
+    "era": "90s",
+    "year": 1994,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt0102636",
+    "title": "Parinda",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "90s",
+    "year": 1989,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0109555",
+    "title": "Darr",
+    "industry": "Bollywood",
+    "genres": ["Action", "Thriller", "Romance"],
+    "era": "90s",
+    "year": 1993,
+    "rating": 7.8
+  },
+
+
+
+
+
+  {
+    "imdbID": "tt0169102",
+    "title": "Lagaan",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "Sport"],
+    "era": "00s",
+    "year": 2001,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0405508",
+    "title": "Rang De Basanti",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt1280558",
+    "title": "A Wednesday",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0296574",
+    "title": "Company",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "00s",
+    "year": 2002,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt0871510",
+    "title": "Chak De! India",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "Sport"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt1166100",
+    "title": "Ghajini",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "Thriller"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0488414",
+    "title": "Omkara",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0402014",
+    "title": "Ab Tak Chhappan",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt1274295",
+    "title": "Kaminey",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "00s",
+    "year": 2009,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt0323013",
+    "title": "Lakshya",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "War"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 7.9
   }
+
+
   
 ]
