@@ -44,51 +44,9 @@
     "year": 1978,
     "rating": 7.7
   },
-  {
-    "imdbID": "tt0093578",
-    "title": "Mr. India",
-    "industry": "Bollywood",
-    "genres": ["Action", "Fantasy", "Comedy"],
-    "era": "b90s",
-    "year": 1987,
-    "rating": 7.7
-  },
-  {
-    "imdbID": "tt0246879",
-    "title": "Qurbani",
-    "industry": "Bollywood",
-    "genres": ["Action", "Crime", "Drama"],
-    "era": "b80s",
-    "year": 1980,
-    "rating": 6.6
-  },
-  {
-    "imdbID": "tt0154565",
-    "title": "Haqeeqat",
-    "industry": "Bollywood",
-    "genres": ["Action", "Drama", "Romance"],
-    "era": "b60s",
-    "year": 1964,
-    "rating": 7.8
-  },
-  {
-    "imdbID": "tt0075669",
-    "title": "Amar Akbar Anthony",
-    "industry": "Bollywood",
-    "genres": ["Action", "Comedy", "Drama"],
-    "era": "b70s",
-    "year": 1977,
-    "rating": 7.6
-  },
-  {
-    "imdbID": "tt0073034",
-    "title": "Garm Hava",
-    "industry": "Bollywood",
-    "genres": ["Drama","Action"],
-    "era": "b70s",
-    "year": 1973,
-    "rating": 8.0
-  },
+  
+
+
 
 
 
@@ -277,8 +235,285 @@
     "era": "00s",
     "year": 2004,
     "rating": 7.9
-  }
+  },
+  {
+    "imdbID": "tt0400234",
+    "title": "Black Friday",
+    "industry": "Bollywood",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 8.4
+  },
+  {
+    "imdbID": "tt7715202",
+    "title": "Sarkar",
+    "industry": "Bollywood",
+    "genres": ["Crime", "Drama", "Action"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0449994",
+    "title": "Jodhaa Akbar",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "History"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0248185",
+    "title": "Mission Kashmir",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "Thriller"],
+    "era": "00s",
+    "year": 2000,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0284137",
+    "title": "Gadar: Ek Prem Katha",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "War"],
+    "era": "00s",
+    "year": 2001,
+    "rating": 7.6
+  },
 
+
+
+
+
+  {
+    "imdbID": "tt32406320",
+    "title": "Gangs of Wasseypur - Part 2",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "10s",
+    "year": 2012,
+    "rating": 8.4
+  },
+  {
+    "imdbID": "tt32406334",
+    "title": "Gangs of Wasseypur - Part 1",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Drama"],
+    "era": "10s",
+    "year": 2012,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt8291224",
+    "title": "Uri: The Surgical Strike",
+    "industry": "Bollywood",
+    "genres": ["Action", "War", "Thriller"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt3390572",
+    "title": "Haider",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "Political"],
+    "era": "10s",
+    "year": 2014,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt3863552",
+    "title": "Bajrangi Bhaijaan",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt3848892",
+    "title": "Baby",
+    "industry": "Bollywood",
+    "genres": ["Action", "Thriller", "Spy"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt4387040",
+    "title": "Airlift",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "Historical"],
+    "era": "10s",
+    "year": 2016,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt3735246",
+    "title": "Bajirao Mastani",
+    "industry": "Bollywood",
+    "genres": ["Action", "Drama", "Historical"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt3678782",
+    "title": "Badlapur",
+    "industry": "Bollywood",
+    "genres": ["Action", "Crime", "Thriller"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt2855648",
+    "title": "Madras Cafe",
+    "industry": "Bollywood",
+    "genres": ["Action", "Political", "Thriller"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt7098658",
+    "title": "Raazi",
+    "industry": "Bollywood",
+    "genres": ["Action", "Spy", "Drama"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt8108274",
+    "title": "Tanhaji: The Unsung Warrior",
+    "industry": "Bollywood",
+    "genres": ["Action", "Historical", "War"],
+    "era": "10s",
+    "year": 2020,
+    "rating": 7.6
+  }, 
+
+
+
+
+
+  {
+    "imdbID": "tt11322920",
+    "title": "Shershaah",
+    "industry": "Bollywood",
+    "genres": ["Action", "War", "Drama"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 8.4
+  },
+  {
+    "imdbID": "tt9851854",
+    "title": "Major",
+    "industry": "Bollywood",
+    "genres": ["Action", "War", "Biography"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt28259207",
+    "title": "Kill",
+    "industry": "Bollywood",
+    "genres": ["Action", "Thriller"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt19838610",
+    "title": "Khuda Haafiz: Chapter 2 – Agni Pariksha",
+    "industry": "Bollywood",
+    "genres": ["Action", "Thriller", "Drama"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt15354916",
+    "title": "Jawan",
+    "industry": "Bollywood",
+    "genres": ["Action", "Thriller"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt18413766",
+    "title": "Mission Majnu",
+    "industry": "Bollywood",
+    "genres": ["Action", "Spy", "Thriller"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt7529298",
+    "title": "Attack: Part 1",
+    "industry": "Bollywood",
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt12844910",
+    "title": "Pathaan",
+    "industry": "Bollywood",
+    "genres": ["Action", "Spy", "Thriller"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.6
+  },
+  
+
+
+
+
+
+  {
+    "imdbID": "tt0238936",
+    "title": "Devdas",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "b90s",
+    "year": 1955,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0050188",
+    "title": "Mother India",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Family"],
+    "era": "b90s",
+    "year": 1957,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0059246",
+    "title": "Guide",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "b90s",
+    "year": 1965,
+    "rating": 8.4
+  },
+  {
+    "imdbID": "tt0045693",
+    "title": "Do Bigha Zamin",
+    "industry": "Bollywood",
+    "genres": ["Drama"],
+    "era": "b90s",
+    "year": 1953,
+    "rating": 8.3
+  }
+  
 
   
 ]

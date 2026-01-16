@@ -56,7 +56,7 @@ function displayMovies(movies) {
   movies.forEach(movie => {
     const movieDiv = document.createElement("div");
     movieDiv.className = "movie";
-
+    console.log(movie.title);
     movieDiv.innerHTML = `
       <h3>${movie.title} (${movie.year})</h3>
       <p><strong>Industry:</strong> ${movie.industry}</p>
