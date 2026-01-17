@@ -114,6 +114,28 @@ A. Bollywood
         Veer-Zaara
         Devdas
         Udaan
+    10s (10 movies)
+		Dangal
+		Andhadhun
+		Masaan
+		The Lunchbox
+		Udaan
+		Zindagi Na Milegi Dobara
+		Queen
+		Piku
+		Pink
+		Article 15
+    20s (10 movies)
+        12th Fail
+        Sardar Udham
+        Rocketry: The Nambi Effect
+        Laapataa Ladies
+        Amar Singh Chamkila
+        Qala
+        Sirf Ek Bandaa Kaafi Hai                      // after this is not confirm 
+        Three of Us
+        Gangubai Kathiawadi
+        Badhaai Do
 
         
     

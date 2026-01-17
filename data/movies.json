@@ -471,6 +471,22 @@
     "year": 2023,
     "rating": 7.6
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
@@ -644,7 +660,7 @@
     "rating": 8.4
   },
   {
-    "imdbID": "tt0248126",
+    "imdbID": "tt0292490",
     "title": "Dil Chahta Hai",
     "industry": "Bollywood",
     "genres": ["Drama", "Romance"],
@@ -689,7 +705,7 @@
     "rating": 7.9
   },
   {
-    "imdbID": "tt0410297",
+    "imdbID": "tt0420332",
     "title": "Veer-Zaara",
     "industry": "Bollywood",
     "genres": ["Drama", "Romance"],
@@ -707,19 +723,224 @@
     "rating": 7.6
   },
   {
-    "imdbID": "tt1542344",
+    "imdbID": "tt1639426",
     "title": "Udaan",
     "industry": "Bollywood",
     "genres": ["Drama"],
     "era": "00s",
     "year": 2009,
     "rating": 8.1
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt5074352",
+    "title": "Dangal",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Biography", "Sport"],
+    "era": "10s",
+    "year": 2016,
+    "rating": 8.4
+  },
+  {
+    "imdbID": "tt8108198",
+    "title": "Andhadhun",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Thriller", "Crime"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt4635372",
+    "title": "Masaan",
+    "industry": "Bollywood",
+    "genres": ["Drama"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt2350496",
+    "title": "The Lunchbox",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt1639426",
+    "title": "Udaan",
+    "industry": "Bollywood",
+    "genres": ["Drama"],
+    "era": "10s",
+    "year": 2010,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt1562872",
+    "title": "Zindagi Na Milegi Dobara",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Comedy"],
+    "era": "10s",
+    "year": 2011,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt3322420",
+    "title": "Queen",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Comedy"],
+    "era": "10s",
+    "year": 2014,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt3767372",
+    "title": "Piku",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Comedy"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt5571734",
+    "title": "Pink",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Thriller"],
+    "era": "10s",
+    "year": 2016,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt10324144",
+    "title": "Article 15",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Crime"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 8.1
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt23849204",
+    "title": "12th Fail",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Biography"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 9.0
+  },
+  {
+    "imdbID": "tt10280296",
+    "title": "Sardar Udham",
+    "industry": "Bollywood",
+    "genres": ["Drama", "History"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 8.4
+  },
+  {
+    "imdbID": "tt9263550",
+    "title": "Rocketry: The Nambi Effect",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Biography"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 8.7
+  },
+  {
+    "imdbID": "tt21626284",
+    "title": "Laapataa Ladies",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Comedy"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 8.4
+  },
+  {
+    "imdbID": "tt26658272",
+    "title": "Amar Singh Chamkila",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Biography", "Music"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt14428598",
+    "title": "Qala",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Psychological"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt21480018",
+    "title": "Sirf Ek Bandaa Kaafi Hai",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Courtroom"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt23804378",
+    "title": "Three of Us",
+    "industry": "Bollywood",
+    "genres": ["Drama"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt14109668",
+    "title": "Gangubai Kathiawadi",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Biography"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt13249496",
+    "title": "Badhaai Do",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Comedy"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.8
   }
 
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
 
 
