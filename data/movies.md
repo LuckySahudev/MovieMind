@@ -84,7 +84,7 @@ A. Bollywood
         Mission Majnu
         Attack: Part 1
         Pathaan
-
+    
     2. Drama
     Before 90s (5 movies)
         Devdas
@@ -92,6 +92,31 @@ A. Bollywood
         Guide
         Do Bigha Zamin
         Sujata
+    90s (10 movies )
+        Jo Jeeta Wohi Sikandar
+        Dilwale Dulhania Le Jayenge
+        Kabhi Haan Kabhi Naa
+        Maachis
+        Bombay
+        Damini
+        Lamhe
+        Khamoshi: The Musical
+        Zakhm
+        Hum Aapke Hain Koun..!
+    00s (10 movies )
+        Swades
+        Taare Zameen Par
+        Dil Chahta Hai
+        Black
+        Munna Bhai M.B.B.S.
+        Lage Raho Munna Bhai
+        Kal Ho Naa Ho
+        Veer-Zaara
+        Devdas
+        Udaan
+
+        
+    
 
 
 

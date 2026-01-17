@@ -512,8 +512,219 @@
     "era": "b90s",
     "year": 1953,
     "rating": 8.3
-  }
+  },
+  {
+    "imdbID": "tt0053319",
+    "title": "Sujata",
+    "industry": "Bollywood",
+    "genres": ["Drama"],
+    "era": "b50s",
+    "year": 1959,
+    "rating": 7.9
+  },
+
+
+
+
+
+  {
+    "imdbID": "tt0104561",
+    "title": "Jo Jeeta Wohi Sikandar",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Sport", "Romance"],
+    "era": "90s",
+    "year": 1992,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0112870",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "90s",
+    "year": 1995,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt0110222",
+    "title": "Kabhi Haan Kabhi Naa",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance", "Comedy"],
+    "era": "90s",
+    "year": 1994,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt0116950",
+    "title": "Maachis",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Crime", "Political"],
+    "era": "90s",
+    "year": 1996,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0112553",
+    "title": "Bombay",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance", "Political"],
+    "era": "90s",
+    "year": 1995,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0106655",
+    "title": "Damini",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Crime", "Courtroom"],
+    "era": "90s",
+    "year": 1993,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0102258",
+    "title": "Lamhe",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "90s",
+    "year": 1991,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0116763",
+    "title": "Khamoshi: The Musical",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Music", "Romance"],
+    "era": "90s",
+    "year": 1996,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0211126",
+    "title": "Zakhm",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Crime"],
+    "era": "90s",
+    "year": 1998,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt0110076",
+    "title": "Hum Aapke Hain Koun..!",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Family", "Romance"],
+    "era": "90s",
+    "year": 1994,
+    "rating": 7.6
+  },
+
+
+
+
+
+
+
   
+  {
+    "imdbID": "tt0367110",
+    "title": "Swades",
+    "industry": "Bollywood",
+    "genres": ["Drama"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt0986264",
+    "title": "Taare Zameen Par",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Family"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 8.4
+  },
+  {
+    "imdbID": "tt0248126",
+    "title": "Dil Chahta Hai",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "00s",
+    "year": 2001,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0375611",
+    "title": "Black",
+    "industry": "Bollywood",
+    "genres": ["Drama"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt0374887",
+    "title": "Munna Bhai M.B.B.S.",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Comedy"],
+    "era": "00s",
+    "year": 2003,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0456144",
+    "title": "Lage Raho Munna Bhai",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Comedy"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt0347304",
+    "title": "Kal Ho Naa Ho",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "00s",
+    "year": 2003,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt0410297",
+    "title": "Veer-Zaara",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0238936",
+    "title": "Devdas",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "era": "00s",
+    "year": 2002,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt1542344",
+    "title": "Udaan",
+    "industry": "Bollywood",
+    "genres": ["Drama"],
+    "era": "00s",
+    "year": 2009,
+    "rating": 8.1
+  }
+
+
+
 
   
 ]
+
+
+  
+  
+
+  
+
