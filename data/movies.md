@@ -28,7 +28,7 @@ There is begining of adding movies
 
 A. Bollywood 
 
-    1. Action
+1. Action
     Before 90s  ( 5 movies)
         Sholay
         Deewar
@@ -85,7 +85,9 @@ A. Bollywood
         Attack: Part 1
         Pathaan
     
-    2. Drama
+
+
+2. Drama
     Before 90s (5 movies)
         Devdas
         Mother India
@@ -103,7 +105,7 @@ A. Bollywood
         Khamoshi: The Musical
         Zakhm
         Hum Aapke Hain Koun..!
-    00s (10 movies )
+    00s (13 movies )
         Swades
         Taare Zameen Par
         Dil Chahta Hai
@@ -113,8 +115,11 @@ A. Bollywood
         Kal Ho Naa Ho
         Veer-Zaara
         Devdas
-        Udaan
-    10s (10 movies)
+        Parineeta
+        Kabhi Alvida Naa Kehna
+		Wake Up Sid
+		Rock On!!
+    10s (12 movies)
 		Dangal
 		Andhadhun
 		Masaan
@@ -125,6 +130,8 @@ A. Bollywood
 		Piku
 		Pink
 		Article 15
+        Barfi!
+        Kai Po Che!
     20s (10 movies)
         12th Fail
         Sardar Udham
@@ -132,10 +139,76 @@ A. Bollywood
         Laapataa Ladies
         Amar Singh Chamkila
         Qala
-        Sirf Ek Bandaa Kaafi Hai                      // after this is not confirm 
+        Sirf Ek Bandaa Kaafi Hai                      
         Three of Us
         Gangubai Kathiawadi
         Badhaai Do
+
+3. Comedy 
+    b90s (5 movies)
+        Jaane Bhi Do Yaaro
+		Chupke Chupke
+		Padosan
+		Gol Maal
+		Angoor
+    90s (10 movies)
+		Andaz Apna Apna
+		Hera Pheri
+		Ishq
+		Chachi 420
+		Hum Hain Rahi Pyar Ke
+		Aankhen
+		Deewana Mastana
+		Bol Radha Bol
+		Yes Boss
+		Pyar Kiya To Darna Kya
+    00s (13 movies)
+		Phir Hera Pheri
+		Bheja Fry
+		Welcome
+		Garam Masala
+		Hungama
+		Bunty Aur Babli
+		No Entry
+		Golmaal: Fun Unlimited
+		Dhamaal
+		Ajab Prem Ki Ghazab Kahani
+		Om Shanti Om
+		Partner
+		Heyy Babyy
+    10s (12 movies)
+		Delhi Belly
+		Vicky Donor
+		Badhaai Ho
+		Bareilly Ki Barfi
+		Dum Laga Ke Haisha
+		Tanu Weds Manu
+		Tanu Weds Manu Returns
+		PK
+		OMG: Oh My God!
+		Hindi Medium
+		English Vinglish
+		Fukrey
+    20s (10 movies)
+		Lootcase
+		Ludo
+		Mimi
+		Monica, O My Darling
+		Sharmaji Namkeen
+		OMG 2
+		JugJugg Jeeyo                            // not update after this 
+		Pagglait
+		Zara Hatke Zara Bachke
+		Madgaon Express
+
+
+
+
+
+
+
+
+
 
         
     
