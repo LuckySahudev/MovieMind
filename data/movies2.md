@@ -15,6 +15,12 @@
 		Padosan
 		Gol Maal
 		Angoor
+		Mughal-e-Azam
+		Amar Prem
+		Abhimaan
+		Pakeezah
+		Qayamat Se Qayamat Tak
+
     90s ( 10 movies)
         Agneepath
         Border
@@ -46,6 +52,17 @@
 		Bol Radha Bol
 		Yes Boss
 		Pyar Kiya To Darna Kya
+        Kuch Kuch Hota Hai
+		Dil To Pagal Hai
+		Raja Hindustani
+		Aashiqui
+		Dil Se..
+		Rangeela
+		Pardes
+		Saajan
+		Baazigar
+		Barsaat
+
     00s (15 movies)
         Lagaan
         Rang De Basanti
@@ -88,6 +105,20 @@
 		Om Shanti Om
 		Partner
 		Heyy Babyy
+		Jab We Met
+		Hum Tum
+		Saathiya
+		Vivah
+		Mohabbatein
+		Fanaa
+		Rehnaa Hai Terre Dil Mein
+		Kasoor
+		Cheeni Kum
+		Namastey London
+		Kaho Naa… Pyaar Hai
+		Salaam Namaste
+		Gangster
+
     10s (12 movies)
         Gangs of Wasseypur – Part 2
         Gangs of Wasseypur – Part 1
@@ -155,6 +186,19 @@
 		Pagglait
 		Zara Hatke Zara Bachke
 		Madgaon Express
+
+
+
+
+
+
+
+
+
+
+
+
+        
        
 
     

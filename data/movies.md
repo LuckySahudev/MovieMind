@@ -2,7 +2,7 @@ CORE GENRE (Best Choice)
 1. Action
 2. Drama
 3. Comedy
-4. Romanc
+4. Romance
 5. Horror
 6. Thriller
 7. Sci-Fi
@@ -200,6 +200,41 @@ A. Bollywood
 		Pagglait
 		Zara Hatke Zara Bachke
 		Madgaon Express
+4. Romance
+    b90s (5 movies)
+		Mughal-e-Azam
+		Amar Prem
+		Abhimaan
+		Pakeezah
+		Qayamat Se Qayamat Tak
+    90s (10 movies)
+		Kuch Kuch Hota Hai
+		Dil To Pagal Hai
+		Raja Hindustani
+		Aashiqui
+		Dil Se..
+		Rangeela
+		Pardes
+		Saajan
+		Baazigar
+		Barsaat
+    00s (13 movies)
+		Jab We Met
+		Hum Tum
+		Saathiya
+		Vivah
+		Mohabbatein
+		Fanaa
+		Rehnaa Hai Terre Dil Mein
+		Kasoor
+		Cheeni Kum
+		Namastey London
+		Kaho Naa… Pyaar Hai
+		Salaam Namaste
+		Gangster
+
+        
+
 
 
 

@@ -1438,7 +1438,7 @@
     "rating": 7.5
   },
   {
-    "imdbID": "tt12484770",
+    "imdbID": "tt11142762",
     "title": "Pagglait",
     "industry": "Bollywood",
     "genres": ["Comedy", "Drama"],
@@ -1447,7 +1447,7 @@
     "rating": 7.6
   },
   {
-    "imdbID": "tt19755170",
+    "imdbID": "tt15576460",
     "title": "Zara Hatke Zara Bachke",
     "industry": "Bollywood",
     "genres": ["Comedy", "Romance"],
@@ -1456,14 +1456,14 @@
     "rating": 7.5
   },
   {
-    "imdbID": "tt27542289",
+    "imdbID": "tt26745657",
     "title": "Madgaon Express",
     "industry": "Bollywood",
     "genres": ["Comedy"],
     "era": "20s",
     "year": 2024,
     "rating": 7.8
-  }
+  },
 
 
 
@@ -1482,7 +1482,280 @@
 
 
   
+  {
+    "imdbID": "tt0054098",
+    "title": "Mughal-e-Azam",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "History"],
+    "era": "b90s",
+    "year": 1960,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt0066758",
+    "title": "Amar Prem",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "b90s",
+    "year": 1972,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt0069671",
+    "title": "Abhimaan",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Music"],
+    "era": "b90s",
+    "year": 1973,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt0067546",
+    "title": "Pakeezah",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Musical"],
+    "era": "b90s",
+    "year": 1972,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0095936",
+    "title": "Qayamat Se Qayamat Tak",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "b90s",
+    "year": 1988,
+    "rating": 7.5
+  },
 
+
+
+
+
+
+  {
+    "imdbID": "tt0172684",
+    "title": "Kuch Kuch Hota Hai",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "90s",
+    "year": 1998,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0118983",
+    "title": "Dil To Pagal Hai",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Musical"],
+    "era": "90s",
+    "year": 1997,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0117437",
+    "title": "Raja Hindustani",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "90s",
+    "year": 1996,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0149573",
+    "title": "Aashiqui",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Musical"],
+    "era": "90s",
+    "year": 1990,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0164538",
+    "title": "Dil Se..",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Thriller"],
+    "era": "90s",
+    "year": 1998,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0114234",
+    "title": "Rangeela",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "90s",
+    "year": 1995,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0119861",
+    "title": "Pardes",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "90s",
+    "year": 1997,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0102825",
+    "title": "Saajan",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "90s",
+    "year": 1991,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0106333",
+    "title": "Baazigar",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Thriller"],
+    "era": "90s",
+    "year": 1993,
+    "rating": 7.5
+  }, 
+  {
+    "imdbID": "tt0112459",
+    "title": "Barsaat",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "90s",
+    "year": 1995,
+    "rating": 7.1
+  },
+
+
+
+
+
+  {
+    "imdbID": "tt1093370",
+    "title": "Jab We Met",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt0378072",
+    "title": "Hum Tum",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt0330843",
+    "title": "Saathiya",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "00s",
+    "year": 2002,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0494290",
+    "title": "Vivah",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0213890",
+    "title": "Mohabbatein",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Musical"],
+    "era": "00s",
+    "year": 2000,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0439662",
+    "title": "Fanaa",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Thriller"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0299108",
+    "title": "Rehnaa Hai Terre Dil Mein",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "00s",
+    "year": 2001,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0272688",
+    "title": "Kasoor",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Thriller"],
+    "era": "00s",
+    "year": 2001,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0976026",
+    "title": "Cheeni Kum",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0795434",
+    "title": "Namastey London",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0234000",
+    "title": "Kaho Naa… Pyaar Hai",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Musical"],
+    "era": "00s",
+    "year": 2000,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0456165",
+    "title": "Salaam Namaste",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Comedy"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0495032",
+    "title": "Gangster",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Crime"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 7.5
+  }
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
