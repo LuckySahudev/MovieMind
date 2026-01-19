@@ -44,7 +44,7 @@ A. Bollywood
         Satya
         Vaastav: The Reality
         Krantiveer
-        Parinda
+        1942: A Love Story
         Darr
     00s (15 movies)
         Lagaan
@@ -312,6 +312,68 @@ A. Bollywood
 		Munjya
 		Stree 2
 		1920: Horrors of the Heart
+6. Thriller
+	b90s
+		Jewel Thief
+		Gumnaam
+		Ittefaq
+		Parinda
+		Khamosh
+	90s 
+		Prahaar: The Final Attack
+		Mohra
+		Khal Nayak
+		Kaun
+		Gupt
+		Gardish
+		Yeshwant
+		Ghulam
+		Dushman
+		Hu Tu Tu
+	00s
+		Johnny Gaddaar
+		Ek Hasina Thi
+		Manorama Six Feet Under
+		Being Cyrus
+		Deewangee
+		Aankhen
+		Samay: When Time Strikes
+		Rog
+		Chehra
+		Yakeen
+		Chocolate
+		Zinda
+		Ek Khiladi Ek Haseena
+	10s
+		Kahaani
+		Drishyam
+		Talvar
+		Talaash: The Answer Lies Within
+		Ugly
+		Special 26
+		Raman Raghav 2.0
+		Section 375
+		Table No. 21
+		Vodka Diaries
+		Game Over
+		Yeh Saali Aashiqui
+	20s 
+		Drishyam 2
+		A Thursday
+		Haseen Dillruba
+		State of Siege: 26/11
+		Khufiya
+		Bloody Daddy
+		Merry Christmas
+		IB 71
+		Jalsa
+		Cuttputlli
+
+
+
+
+
+
 
 
 

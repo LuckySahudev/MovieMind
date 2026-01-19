@@ -124,13 +124,13 @@
     "rating": 7.7
   },
   {
-    "imdbID": "tt0102636",
-    "title": "Parinda",
+    "imdbID": "tt0109010",
+    "title": "1942: A Love Story",
     "industry": "Bollywood",
-    "genres": ["Action", "Crime", "Drama"],
+    "genres": ["Drama", "Romance"],
     "era": "90s",
-    "year": 1989,
-    "rating": 7.8
+    "year": 1994,
+    "rating": 7.2
   },
   {
     "imdbID": "tt0109555",
@@ -2447,47 +2447,498 @@
     "era": "20s",
     "year": 2023,
     "rating": 6.5
+  },
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "imdbID": "tt0061842",
+    "title": "Jewel Thief",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Mystery"],
+    "era": "b90s",
+    "year": 1967,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt0247394",
+    "title": "Gumnaam",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery"],
+    "era": "b90s",
+    "year": 1965,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0064506",
+    "title": "Ittefaq",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime"],
+    "era": "b90s",
+    "year": 1969,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0102636",
+    "title": "Parinda",
+    "industry": "Bollywood",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "era": "b90s",
+    "year": 1989,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt0089413",
+    "title": "Khamosh",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery"],
+    "era": "b90s",
+    "year": 1985,
+    "rating": 7.6
+  },
+
+
+
+
+
+  {
+    "imdbID": "tt0102701",
+    "title": "Prahaar: The Final Attack",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Action", "Drama"],
+    "era": "90s",
+    "year": 1991,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0110546",
+    "title": "Mohra",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Action", "Crime"],
+    "era": "90s",
+    "year": 1994,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0107311",
+    "title": "Khalnayak",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "era": "90s",
+    "year": 1993,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt0195002",
+    "title": "Kaun",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery"],
+    "era": "90s",
+    "year": 1999,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt0119239",
+    "title": "Gupt",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery", "Crime"],
+    "era": "90s",
+    "year": 1997,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0106986",
+    "title": "Gardish",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "era": "90s",
+    "year": 1993,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0250122",
+    "title": "Yeshwant",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "era": "90s",
+    "year": 1997,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0190419",
+    "title": "Ghulam",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Action", "Drama"],
+    "era": "90s",
+    "year": 1998,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0189492",
+    "title": "Dushman",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "era": "90s",
+    "year": 1998,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0246687",
+    "title": "Hu Tu Tu",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Political", "Drama"],
+    "era": "90s",
+    "year": 1999,
+    "rating": 7.6
+  },
+
+
+
+
+
+  {
+    "imdbID": "tt1077248",
+    "title": "Johnny Gaddaar",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Neo-noir"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt0411469",
+    "title": "Ek Hasina Thi",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological", "Revenge"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0920464",
+    "title": "Manorama Six Feet Under",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery", "Neo-noir"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0412308",
+    "title": "Being Cyrus",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0337971",
+    "title": "Deewangee",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological", "Courtroom"],
+    "era": "00s",
+    "year": 2002,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0306434",
+    "title": "Aankhen",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Heist", "Psychological"],
+    "era": "00s",
+    "year": 2002,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt0384491",
+    "title": "Samay: When Time Strikes",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Serial Killer", "Mystery"],
+    "era": "00s",
+    "year": 2003,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0443208",
+    "title": "Rog",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological", "Mystery"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt9066222",
+    "title": "Chehra",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0453978",
+    "title": "Yakeen",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological", "Mystery"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt1183252",
+    "title": "Chocolate",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery", "Crime"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0488906",
+    "title": "Zinda",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Revenge", "Action"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0461209",
+    "title": "Ek Khiladi Ek Haseena",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Con", "Crime"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.5
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt1821480",
+    "title": "Kahaani",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery"],
+    "era": "10s",
+    "year": 2012,
+    "rating": 8.1
+  },
+  {
+    "imdbID": "tt4430212",
+    "title": "Drishyam",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt4934950",
+    "title": "Talvar",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Mystery"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt1787988",
+    "title": "Talaash: The Answer Lies Within",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery", "Psychological"],
+    "era": "10s",
+    "year": 2012,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt2882328",
+    "title": "Ugly",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological", "Crime"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt2377938",
+    "title": "Special 26",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt5662932",
+    "title": "Raman Raghav 2.0",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological", "Crime"],
+    "era": "10s",
+    "year": 2016,
+    "rating": 7.4
+  },
+  {
+    "imdbID": "tt8144834",
+    "title": "Section 375",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Courtroom", "Crime"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt2229842",
+    "title": "Table No. 21",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt6275262",
+    "title": "Vodka Diaries",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery", "Psychological"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt8914492",
+    "title": "Game Over",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt10443846",
+    "title": "Yeh Saali Aashiqui",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Psychological", "Crime"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 7.2
+  },
+
+
+
+
+
+  {
+    "imdbID": "tt15501640",
+    "title": "Drishyam 2",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Mystery"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt13028258",
+    "title": "A Thursday",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Drama"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt11027830",
+    "title": "Haseen Dillruba",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery", "Crime"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt12301694",
+    "title": "State of Siege: 26/11",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Action", "Terror"],
+    "era": "20s",
+    "year": 2020,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt15433600",
+    "title": "Khufiya",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Espionage", "Crime"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt27501039",
+    "title": "Bloody Daddy",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Action", "Crime"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt15392282",
+    "title": "Merry Christmas",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Mystery"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt15073166",
+    "title": "IB 71",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Spy", "Drama"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt15361028",
+    "title": "Jalsa",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Drama"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt15315164",
+    "title": "Cuttputlli",
+    "industry": "Bollywood",
+    "genres": ["Thriller", "Crime", "Mystery"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.5
   }
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   
-
-
-
-
-
-
-
-
-
-
 
 ]
 
