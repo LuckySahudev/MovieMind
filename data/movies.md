@@ -232,6 +232,31 @@ A. Bollywood
 		Kaho Naa… Pyaar Hai
 		Salaam Namaste
 		Gangster
+    10s (12 movies)
+		Rockstar
+		Tamasha
+		Yeh Jawaani Hai Deewani
+		October
+		Kapoor & Sons
+		Laila Majnu
+		Sanam Teri Kasam
+		Raanjhanaa
+		Highway
+		Aashiqui 2
+		Ek Main Aur Ekk Tu
+		Margarita with a Straw
+    20s (movies)
+		Sita Ramam
+		Dil Bechara
+		Jersey
+		Shiddat
+		Satyaprem Ki Katha
+		Atrangi Re
+		Chandigarh Kare Aashiqui
+		Gehraiyaan
+		Tara vs Bilal
+		Bawaal
+
 
         
 

@@ -494,7 +494,7 @@
 
 
   {
-    "imdbID": "tt0238936",
+    "imdbID": "tt0047990",
     "title": "Devdas",
     "industry": "Bollywood",
     "genres": ["Drama", "Romance"],
@@ -1744,7 +1744,222 @@
     "era": "00s",
     "year": 2006,
     "rating": 7.5
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt1839596",
+    "title": "Rockstar",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Music"],
+    "era": "10s",
+    "year": 2011,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt3148502",
+    "title": "Tamasha",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt2178470",
+    "title": "Yeh Jawaani Hai Deewani",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt7700730",
+    "title": "October",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt4900716",
+    "title": "Kapoor & Sons",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Family"],
+    "era": "10s",
+    "year": 2016,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt8011276",
+    "title": "Laila Majnu",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt5255710",
+    "title": "Sanam Teri Kasam",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "10s",
+    "year": 2016,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt2359810",
+    "title": "Raanjhanaa",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt2980794",
+    "title": "Highway",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "10s",
+    "year": 2014,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt2203308",
+    "title": "Aashiqui 2",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Music"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt1703958",
+    "title": "Ek Main Aur Ekk Tu",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "era": "10s",
+    "year": 2012,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt2929690",
+    "title": "Margarita with a Straw",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "10s",
+    "year": 2014,
+    "rating": 8.0
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt20850406",
+    "title": "Sita Ramam",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 8.6
+  },
+  {
+    "imdbID": "tt8110330",
+    "title": "Dil Bechara",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "20s",
+    "year": 2020,
+    "rating": 8.3
+  },
+  {
+    "imdbID": "tt8948790",
+    "title": "Jersey",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama", "Sport"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt11314148",
+    "title": "Shiddat",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt14914988",
+    "title": "Satyaprem Ki Katha",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt9766332",
+    "title": "Atrangi Re",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt12861850",
+    "title": "Chandigarh Kare Aashiqui",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt10733228",
+    "title": "Gehraiyaan",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt14398454",
+    "title": "Tara vs Bilal",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt19755170",
+    "title": "Bawaal",
+    "industry": "Bollywood",
+    "genres": ["Romance", "Drama"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.5
   }
+
+
+
+
+
 
 
 

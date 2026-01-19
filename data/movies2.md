@@ -156,6 +156,19 @@
 		Hindi Medium
 		English Vinglish
 		Fukrey
+        Rockstar
+		Tamasha
+		Yeh Jawaani Hai Deewani
+		October
+		Kapoor & Sons
+		Laila Majnu
+		Sanam Teri Kasam
+		Raanjhanaa
+		Highway
+		Aashiqui 2
+		Ek Main Aur Ekk Tu
+		Margarita with a Straw
+
         
     20s (8 movies )
         Shershaah
@@ -182,10 +195,21 @@
 		Monica, O My Darling
 		Sharmaji Namkeen
 		OMG 2
-		JugJugg Jeeyo                            // not update after this 
+		JugJugg Jeeyo                            
 		Pagglait
 		Zara Hatke Zara Bachke
 		Madgaon Express
+        Sita Ramam
+		Dil Bechara
+		Jersey
+		Shiddat
+		Satyaprem Ki Katha
+		Atrangi Re
+		Chandigarh Kare Aashiqui
+		Gehraiyaan
+		Tara vs Bilal
+		Bawaal
+
 
 
 
