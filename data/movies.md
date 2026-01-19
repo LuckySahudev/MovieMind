@@ -256,6 +256,68 @@ A. Bollywood
 		Gehraiyaan
 		Tara vs Bilal
 		Bawaal
+5. Horror
+	b90s (5 movies)
+		Woh Kaun Thi?
+		Bees Saal Baad
+		Mahal
+		Purana Mandir
+		Veerana
+	90s (10 movies)
+		Raat
+		Gehrayee
+		Shaitani Ilaaka
+		Bandh Darwaza
+		Mahakaal
+		Junoon
+		House No. 13
+		Kabrastan
+		Khooni Panja
+		Aakhri Cheekh
+	00s (13 movies)
+		13B: Fear Has a New Address
+		Bhool Bhulaiyaa
+		Bhoot
+		Raat Chali Hai Jhoom K
+		Darna Mana Hai
+		Raaz
+		Krishna Cottage
+		Phoonk
+		Fear
+		Vaastu Shastra
+		Naina
+		Frozen
+		Agyaat
+	10s (12 movies )
+		Tumbbad
+		Stree
+		Pari
+		Phobia
+		404: Error Not Found
+		Ek Thi Daayan
+		Pizza
+		Go Goa Gone
+		Ghoul
+		Bhoot Part One: The Haunted Ship
+		Shaapit
+		Bhoothnath Returns
+	20s (10 movies)
+		Bulbbul
+		Chhorii
+		Freddy
+		Bhediya
+		Bhool Bhulaiyaa 2
+		Jaane Jaan
+		Shaitaan
+		Munjya
+		Stree 2
+		1920: Horrors of the Heart
+
+
+
+
+
+
 
 
         

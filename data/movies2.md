@@ -20,7 +20,11 @@
 		Abhimaan
 		Pakeezah
 		Qayamat Se Qayamat Tak
-
+		Woh Kaun Thi?
+		Bees Saal Baad
+		Mahal
+		Purana Mandir
+		Veerana
     90s ( 10 movies)
         Agneepath
         Border
@@ -62,7 +66,16 @@
 		Saajan
 		Baazigar
 		Barsaat
-
+		Raat
+		Gehrayee
+		Shaitani Ilaaka
+		Bandh Darwaza
+		Mahakaal
+		Junoon
+		House No. 13
+		Kabrastan
+		Khooni Panja
+		Aakhri Cheekh
     00s (15 movies)
         Lagaan
         Rang De Basanti
@@ -118,7 +131,19 @@
 		Kaho Naa… Pyaar Hai
 		Salaam Namaste
 		Gangster
-
+		13B: Fear Has a New Address
+		Bhool Bhulaiyaa
+		Bhoot
+		Raat Chali Hai Jhoom K
+		Darna Mana Hai
+		Raaz
+		Krishna Cottage
+		Phoonk
+		Fear
+		Vaastu Shastra
+		Naina
+		Frozen
+		Agyaat
     10s (12 movies)
         Gangs of Wasseypur – Part 2
         Gangs of Wasseypur – Part 1
@@ -168,8 +193,18 @@
 		Aashiqui 2
 		Ek Main Aur Ekk Tu
 		Margarita with a Straw
-
-        
+		Tumbbad
+		Stree
+		Pari
+		Phobia
+		404: Error Not Found
+		Ek Thi Daayan
+		Pizza
+		Go Goa Gone
+		Ghoul
+		Bhoot Part One: The Haunted Ship
+		Shaapit
+		Bhoothnath Returns
     20s (8 movies )
         Shershaah
         Major
@@ -209,6 +244,17 @@
 		Gehraiyaan
 		Tara vs Bilal
 		Bawaal
+		Bulbbul
+		Chhorii
+		Freddy
+		Bhediya
+		Bhool Bhulaiyaa 2
+		Jaane Jaan
+		Shaitaan
+		Munjya
+		Stree 2
+		1920: Horrors of the Heart
+
 
 
 

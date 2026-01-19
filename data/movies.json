@@ -1954,7 +1954,514 @@
     "era": "20s",
     "year": 2023,
     "rating": 7.5
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "imdbID": "tt0232960",
+    "title": "Woh Kaun Thi?",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "era": "b90s",
+    "year": 1964,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt0055783",
+    "title": "Bees Saal Baad",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "era": "b90s",
+    "year": 1962,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt0041619",
+    "title": "Mahal",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Mystery", "Romance"],
+    "era": "b90s",
+    "year": 1949,
+    "rating": 6.9
+  },
+  {
+    "imdbID": "tt0253514",
+    "title": "Purana Mandir",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "b90s",
+    "year": 1984,
+    "rating": 6.3
+  },
+  {
+    "imdbID": "tt0260494",
+    "title": "Veerana",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "b90s",
+    "year": 1988,
+    "rating": 6.6
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt0266875",
+    "title": "Raat",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "90s",
+    "year": 1992,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt0259322",
+    "title": "Gehrayee",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Drama"],
+    "era": "90s",
+    "year": 1993,
+    "rating": 6.9
+  },
+  {
+    "imdbID": "tt0261296",
+    "title": "Shaitani Ilaaka",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "90s",
+    "year": 1997,
+    "rating": 6.0
+  },
+  {
+    "imdbID": "tt0259877",
+    "title": "Bandh Darwaza",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "90s",
+    "year": 1990,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt0260155",
+    "title": "Mahakaal",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "90s",
+    "year": 1993,
+    "rating": 6.4
+  },
+  {
+    "imdbID": "tt0156658",
+    "title": "Junoon",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "90s",
+    "year": 1992,
+    "rating": 6.3
+  },
+  {
+    "imdbID": "tt0316221",
+    "title": "House No. 13",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "90s",
+    "year": 1991,
+    "rating": 6.3
+  },
+  {
+    "imdbID": "tt0440530",
+    "title": "Kabrastan",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "90s",
+    "year": 1995,
+    "rating": 6.2
+  },
+  {
+    "imdbID": "tt0455140",
+    "title": "Khooni Panja",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "90s",
+    "year": 1998,
+    "rating": 6.2
+  },
+  {
+    "imdbID": "tt0259831",
+    "title": "Aakhri Cheekh",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "90s",
+    "year": 1991,
+    "rating": 6.1
+  },
+
+
+
+
+
+  {
+    "imdbID": "tt1385824",
+    "title": "13B: Fear Has a New Address",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "00s",
+    "year": 2009,
+    "rating": 7.4
+  },
+  {
+    "imdbID": "tt0995031",
+    "title": "Bhool Bhulaiyaa",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.3
+  },
+  {
+    "imdbID": "tt0341266",
+    "title": "Bhoot",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "00s",
+    "year": 2003,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt0269755",
+    "title": "Raat Chali Hai Jhoom K",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "00s",
+    "year": 2002,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt0349333",
+    "title": "Darna Mana Hai",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "00s",
+    "year": 2003,
+    "rating": 6.9
+  },
+  {
+    "imdbID": "tt0307873",
+    "title": "Raaz",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "era": "00s",
+    "year": 2002,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt0408976",
+    "title": "Krishna Cottage",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt1267500",
+    "title": "Phoonk",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt1567303",
+    "title": "Fear",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt0416282",
+    "title": "Vaastu Shastra",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 6.5
+  },
+  {
+    "imdbID": "tt0443594",
+    "title": "Naina",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 6.5
+  },
+  {
+    "imdbID": "tt1071798",
+    "title": "Frozen",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt1415252",
+    "title": "Agyaat",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "00s",
+    "year": 2009,
+    "rating": 6.5
+  },
+
+
+
+
+
+
+
+  {
+    "imdbID": "tt8239946",
+    "title": "Tumbbad",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Fantasy", "Thriller"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt8108202",
+    "title": "Stree",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Comedy"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt7329858",
+    "title": "Pari",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Mystery"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt5743656",
+    "title": "Phobia",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "10s",
+    "year": 2016,
+    "rating": 6.8
+  },
+  {
+    "imdbID": "tt1883121",
+    "title": "404: Error Not Found",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "10s",
+    "year": 2011,
+    "rating": 6.5
+  },
+  {
+    "imdbID": "tt2406676",
+    "title": "Ek Thi Daayan",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 6.5
+  },
+  {
+    "imdbID": "tt2585562",
+    "title": "Pizza",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "10s",
+    "year": 2014,
+    "rating": 6.8
+  },
+  {
+    "imdbID": "tt2436516",
+    "title": "Go Goa Gone",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Comedy"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt5909930",
+    "title": "Ghoul",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt10463030",
+    "title": "Bhoot Part One: The Haunted Ship",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 5.4
+  },
+  {
+    "imdbID": "tt1600439",
+    "title": "Shaapit",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Romance"],
+    "era": "10s",
+    "year": 2010,
+    "rating": 4.9
+  },
+  {
+    "imdbID": "tt3531852",
+    "title": "Bhoothnath Returns",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Comedy"],
+    "era": "10s",
+    "year": 2014,
+    "rating": 6.3
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt12393526",
+    "title": "Bulbbul",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Mystery", "Drama"],
+    "era": "20s",
+    "year": 2020,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt12861212",
+    "title": "Chhorii",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 6.7
+  },
+  {
+    "imdbID": "tt15145764",
+    "title": "Freddy",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.4
+  },
+  {
+    "imdbID": "tt14099334",
+    "title": "Bhediya",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Comedy", "Fantasy"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt6455162",
+    "title": "Bhool Bhulaiyaa 2",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Comedy"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 6.5
+  },
+  {
+    "imdbID": "tt15748830",
+    "title": "Jaane Jaan",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt27744786",
+    "title": "Shaitaan",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Thriller"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 6.8
+  },
+  {
+    "imdbID": "tt27995594",
+    "title": "Munjya",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Comedy"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 6.8
+  },
+  {
+    "imdbID": "tt27510174",
+    "title": "Stree 2",
+    "industry": "Bollywood",
+    "genres": ["Horror", "Comedy"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 7.3
+  },
+  {
+    "imdbID": "tt25403492",
+    "title": "1920: Horrors of the Heart",
+    "industry": "Bollywood",
+    "genres": ["Horror"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 6.5
   }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
