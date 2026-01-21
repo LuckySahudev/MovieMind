@@ -19,3 +19,8 @@ button {
   margin-top: 10px;
   border-radius: 6px;
 }
+
+.movie:hover{
+  padding: 5px 10px;
+  border: 2px solid #ccc;
+}

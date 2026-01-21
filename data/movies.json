@@ -2934,11 +2934,896 @@
     "era": "20s",
     "year": 2022,
     "rating": 7.5
-  }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "imdbID": "tt0357926",
+    "title": "Mr. X in Bombay",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Comedy", "Thriller"],
+    "era": "b90s",
+    "year": 1964,
+    "rating": 6.4
+  },
+  {
+    "imdbID": "tt0155370",
+    "title": "Wahan Ke Log",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "b90s",
+    "year": 1967,
+    "rating": 5.4
+  },
+  {
+    "imdbID": "tt0048613",
+    "title": "Shree 420",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance", "Social Science Fiction"],
+    "era": "b90s",
+    "year": 1955,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt3657490",
+    "title": "Hatya Chakra",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Crime", "Thriller"],
+    "era": "b90s",
+    "year": 1983,
+    "rating": 6.0
+  },
+  {
+    "imdbID": "tt3807844",
+    "title": "Chehra Maut Ka",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Horror"],
+    "era": "b90s",
+    "year": 1989,
+    "rating": 5.8
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt0101283",
+    "title": "Ajooba",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Fantasy", "Adventure"],
+    "era": "90s",
+    "year": 1990,
+    "rating": 6.2
+  },
+  {
+    "imdbID": "tt0114615",
+    "title": "Taqdeerwala",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Fantasy", "Comedy"],
+    "era": "90s",
+    "year": 1995,
+    "rating": 6.0
+  },
+  {
+    "imdbID": "tt0117099",
+    "title": "Mr. Bechara",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Romance", "Drama"],
+    "era": "90s",
+    "year": 1996,
+    "rating": 6.1
+  },
+  {
+    "imdbID": "tt0126234",
+    "title": "Chamatkar",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Fantasy", "Comedy"],
+    "era": "90s",
+    "year": 1992,
+    "rating": 6.4
+  },
+  {
+    "imdbID": "tt0298366",
+    "title": "Humshakal",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "90s",
+    "year": 1994,
+    "rating": 6.3
+  },
+
+
+
+
+
+
+
+  {
+    "imdbID": "tt0254481",
+    "title": "Koi... Mil Gaya",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Drama"],
+    "era": "00s",
+    "year": 2003,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt0490170",
+    "title": "Love Story 2050",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Romance"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 2.8
+  },
+  {
+    "imdbID": "tt0366985",
+    "title": "Rudraksh",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 4.2
+  },
+  {
+    "imdbID": "tt0813996",
+    "title": "Different",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Drama"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 6.0
+  },
+  {
+    "imdbID": "tt0414040",
+    "title": "Gayab",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 6.0
+  },
+  {
+    "imdbID": "tt0326983",
+    "title": "Jaani Dushman: Ek Anokhi Kahani",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Fantasy", "Horror"],
+    "era": "00s",
+    "year": 2002,
+    "rating": 2.8
+  },
+  {
+    "imdbID": "tt0391165",
+    "title": "Fun2shh... Dudes in the 10th Century",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Comedy"],
+    "era": "00s",
+    "year": 2003,
+    "rating": 4.1
+  },
+  {
+    "imdbID": "tt0435437",
+    "title": "Tarzan: The Wonder Car",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 5.8
+  },
+  {
+    "imdbID": "tt0432637",
+    "title": "Krrish",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "00s",
+    "year": 2006,
+    "rating": 6.4
+  },
+  {
+    "imdbID": "tt1137434",
+    "title": "Aabra Ka Daabra",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Fantasy"],
+    "era": "00s",
+    "year": 2004,
+    "rating": 3.3
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt2048849",
+    "title": "Robot",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "10s",
+    "year": 2010,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt5080556",
+    "title": "2.0",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 6.1
+  },
+  {
+    "imdbID": "tt1562871",
+    "title": "Ra.One",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "10s",
+    "year": 2011,
+    "rating": 4.9
+  },
+  {
+    "imdbID": "tt1029231",
+    "title": "Krrish 3",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 5.3
+  },
+  {
+    "imdbID": "tt8992946",
+    "title": "Cargo",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Fantasy", "Drama"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 6.2
+  },
+  {
+    "imdbID": "tt3836958",
+    "title": "Shamitabh",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Drama"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 6.3
+  },
+  {
+    "imdbID": "tt5235880",
+    "title": "A Flying Jatt",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "10s",
+    "year": 2016,
+    "rating": 3.1
+  },
+  {
+    "imdbID": "tt3848938",
+    "title": "Mr. X",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 3.7
+  },
+  {
+    "imdbID": "tt3619854",
+    "title": "Creature",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Horror"],
+    "era": "10s",
+    "year": 2014,
+    "rating": 3.1
+  },
+  {
+    "imdbID": "tt3138602",
+    "title": "Warning",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "10s",
+    "year": 2013,
+    "rating": 4.2
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt12735488",
+    "title": "Kalki 2898 AD",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 7.4
+  },
+  {
+    "imdbID": "tt6277462",
+    "title": "Brahmāstra: Part One – Shiva",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Fantasy", "Action"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 5.6
+  },
+  {
+    "imdbID": "tt13334578",
+    "title": "Ganapath",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 3.1
+  },
+  {
+    "imdbID": "tt8907974",
+    "title": "Loop Lapeta",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt12740760",
+    "title": "Phone Bhoot",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Comedy", "Fantasy"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 6.0
+  },
+  {
+    "imdbID": "tt16139258",
+    "title": "Yodha",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 6.0
+  },
+  {
+    "imdbID": "tt23752056",
+    "title": "Mission Chapter 1",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Thriller"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 5.5
+  },
+  {
+    "imdbID": "tt12132908",
+    "title": "Chandramukhi 2",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Horror"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 3.3
+  },
+  {
+    "imdbID": "tt15138124",
+    "title": "AI: Artificial Intelligence",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Drama"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 6.1
+  },
+  {
+    "imdbID": "tt18072316",
+    "title": "Bade Miyan Chote Miyan",
+    "industry": "Bollywood",
+    "genres": ["Science Fiction", "Action", "Thriller"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 4.1
+  },
+
+
+
+
 
 
 
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "imdbID": "tt0087975",
+    "title": "Raaj Tilak",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Action", "Drama"],
+    "era": "b90s",
+    "year": 1984,
+    "rating": 5.6
+  },
+  {
+    "imdbID": "tt0079749",
+    "title": "Adventures of Ali-Baba and the Forty Thieves",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Adventure", "Action"],
+    "era": "b90s",
+    "year": 1980,
+    "rating": 7.2
+  },
+  {
+    "imdbID": "tt1538293",
+    "title": "Hatim Tai",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Adventure", "Folklore"],
+    "era": "b90s",
+    "year": 1956,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt0165907",
+    "title": "Paheli",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Romance", "Drama"],
+    "era": "b90s",
+    "year": 1977,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt0280968",
+    "title": "My Dear Kuttichaathan",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Comedy"],
+    "era": "b90s",
+    "year": 1984,
+    "rating": 7.1
+  },
+
+
+
+
+
+  {
+    "imdbID": "tt0114726",
+    "title": "Trimurti",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Action", "Drama"],
+    "era": "90s",
+    "year": 1995,
+    "rating": 5.8
+  },
+  {
+    "imdbID": "tt0326983",
+    "title": "Jaani Dushman: Ek Anokhi Kahani",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Horror", "Mystery"],
+    "era": "90s",
+    "year": 1990,
+    "rating": 6.0
+  },
+  {
+    "imdbID": "tt0359971",
+    "title": "Sheshnaag",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Romance"],
+    "era": "90s",
+    "year": 1990,
+    "rating": 6.2
+  },
+  {
+    "imdbID": "tt2389974",
+    "title": "Aatma",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Horror", "Thriller"],
+    "era": "90s",
+    "year": 1993,
+    "rating": 6.4
+  },
+  {
+    "imdbID": "tt0318812",
+    "title": "Vishkanya",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Drama"],
+    "era": "90s",
+    "year": 1991,
+    "rating": 6.3
+  },
+
+
+
+
+
+
+
+  {
+    "imdbID": "tt0451850",
+    "title": "Paheli",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Romance", "Folklore"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt0991346",
+    "title": "Bhoothnath",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Comedy", "Family"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt0488836",
+    "title": "Hanuman",
+    "industry": "Bollywood",
+    "genres": ["Animated", "Fantasy", "Mythological"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.2
+  },
+  {
+    "imdbID": "tt4161520",
+    "title": "Dashavatar",
+    "industry": "Bollywood",
+    "genres": ["Animated", "Fantasy", "Mythological"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt0457802",
+    "title": "The Blue Umbrella",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Family", "Drama"],
+    "era": "00s",
+    "year": 2005,
+    "rating": 7.4
+  },
+  {
+    "imdbID": "tt1629042",
+    "title": "Little Krishna",
+    "industry": "Bollywood",
+    "genres": ["Animated", "Fantasy", "Mythological"],
+    "era": "00s",
+    "year": 2009,
+    "rating": 7.5
+  },
+  {
+    "imdbID": "tt1065099",
+    "title": "My Friend Ganesha",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Family"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt1283926",
+    "title": "My Friend Ganesha 2",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Family"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt6449730",
+    "title": "Bal Ganesh",
+    "industry": "Bollywood",
+    "genres": ["Animated", "Fantasy", "Mythological"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt1050739",
+    "title": "Roadside Romeo",
+    "industry": "Bollywood",
+    "genres": ["Animated", "Fantasy", "Comedy"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt0758053",
+    "title": "Saawariya",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Romance", "Drama"],
+    "era": "00s",
+    "year": 2007,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt1324078",
+    "title": "Kal Kissne Dekha",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Sci-Fi", "Romance"],
+    "era": "00s",
+    "year": 2009,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt1132589",
+    "title": "Hijack",
+    "industry": "Bollywood",
+    "genres": ["Action", "Thriller"],
+    "era": "00s",
+    "year": 2008,
+    "rating": 3.7
+  },
+  {
+    "imdbID": "tt1447500",
+    "title": "Magadheera",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Epic", "Action", "Romance"],
+    "era": "00s",
+    "year": 2009,
+    "rating": 7.7
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt1189006",
+    "title": "Toonpur Ka Super Hero",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Animation", "Adventure"],
+    "era": "00s",
+    "year": 2010,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt4129428",
+    "title": "Jagga Jasoos",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Adventure", "Musical"],
+    "era": "10s",
+    "year": 2017,
+    "rating": 6.4
+  },
+  {
+    "imdbID": "tt8055888",
+    "title": "Mard Ko Dard Nahi Hota",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Action", "Comedy"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 7.4
+  },
+  {
+    "imdbID": "tt6129302",
+    "title": "Bhavesh Joshi Superhero",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Action", "Drama"],
+    "era": "10s",
+    "year": 2018,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt12393526",
+    "title": "Bulbbul",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Folklore", "Drama"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 6.6
+  },
+  {
+    "imdbID": "tt1629376",
+    "title": "7 Khoon Maaf",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Drama", "Thriller"],
+    "era": "10s",
+    "year": 2011,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt2404027",
+    "title": "Arjun: The Warrior Prince",
+    "industry": "Bollywood",
+    "genres": ["Animated", "Fantasy", "Mythological"],
+    "era": "10s",
+    "year": 2012,
+    "rating": 7.2
+  },
+  {
+    "imdbID": "tt6941654",
+    "title": "Hanuman: Da’ Damdaar",
+    "industry": "Bollywood",
+    "genres": ["Animated", "Fantasy", "Mythological"],
+    "era": "10s",
+    "year": 2017,
+    "rating": 7.1
+  },
+  {
+    "imdbID": "tt9848626",
+    "title": "Bombay Rose",
+    "industry": "Bollywood",
+    "genres": ["Animated", "Fantasy", "Romance"],
+    "era": "10s",
+    "year": 2019,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt2631186",
+    "title": "Baahubali: The Beginning",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Epic", "Action", "Drama"],
+    "era": "10s",
+    "year": 2015,
+    "rating": 8.0
+  },
+  {
+    "imdbID": "tt4849438",
+    "title": "Baahubali 2: The Conclusion",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Epic", "Action", "Drama"],
+    "era": "10s",
+    "year": 2017,
+    "rating": 8.2
+  },
+
+
+
+
+
+
+  {
+    "imdbID": "tt15327088",
+    "title": "Kantara",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Folklore", "Drama"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt26439764",
+    "title": "Kantara: A Legend - Chapter 1",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Folklore", "Epic"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 8.5
+  },
+  {
+    "imdbID": "tt10701074",
+    "title": "Ponniyin Selvan I",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Epic", "Historical"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.7
+  },
+  {
+    "imdbID": "tt22444570",
+    "title": "Ponniyin Selvan II",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Epic", "Historical"],
+    "era": "20s",
+    "year": 2023,
+    "rating": 7.6
+  },
+  {
+    "imdbID": "tt4983780",
+    "title": "Maanaadu",
+    "industry": "Bollywood",
+    "genres": ["Sci-Fi", "Fantasy", "Thriller"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 8.2
+  },
+  {
+    "imdbID": "tt7268738",
+    "title": "Minnal Murali",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Superhero", "Action"],
+    "era": "20s",
+    "year": 2021,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt15433956",
+    "title": "Hanu-Man",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Mythological", "Superhero"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 7.9
+  },
+  {
+    "imdbID": "tt13664684",
+    "title": "kartikeya 2",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Mythological", "Adventure"],
+    "era": "20s",
+    "year": 2022,
+    "rating": 7.8
+  },
+  {
+    "imdbID": "tt30798612",
+    "title": "Crazxy",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Sci-Fi", "Thriller"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 7.0
+  },
+  {
+    "imdbID": "tt30858568",
+    "title": "Mirai",
+    "industry": "Bollywood",
+    "genres": ["Fantasy", "Mythological", "Action"],
+    "era": "20s",
+    "year": 2024,
+    "rating": 7.2
+  }
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
 

@@ -30,6 +30,18 @@
 		Ittefaq
 		Parinda
 		Khamosh
+		Mr. X in Bombay
+		Wahan Ke Log
+		Shree 420
+		Hatya Chakra
+		Chehra Maut Ka
+		Raaj Tilak
+		Adventures of Ali-Baba and the Forty Thieves
+		Hatim Tai
+		Paheli
+		My Dear Kuttichaathan
+
+
 
     90s ( 10 movies)
         Agneepath
@@ -92,6 +104,22 @@
 		Ghulam
 		Dushman
 		Hu Tu Tu
+		Ajooba
+		Taqdeerwala
+		Mr. Bechara
+		Chamatkar
+		Humshakal
+		Trimurti
+		Jaani Dushman: Ek Anokhi Kahani
+		Sheshnaag
+		Aatma
+		Vishkanya
+		Trimurti
+		Jaani Dushman: Ek Anokhi Kahani
+		Sheshnaag
+		Aatma
+		Vishkanya
+
 
     00s (15 movies)
         Lagaan
@@ -174,6 +202,31 @@
 		Chocolate
 		Zinda
 		Ek Khiladi Ek Haseena
+		Koi... Mil Gaya
+		Love Story 2050
+		Rudraksh
+		Different
+		Gayab
+		Jaani Dushman: Ek Anokhi Kahani
+		Fun2shh... Dudes in the 10th Century
+		Tarzan: The Wonder Car
+		Krrish
+		Aabra Ka Daabra
+		Paheli
+		Bhoothnath
+		Hanuman
+		Dashavatar
+		The Blue Umbrella
+		Little Krishna
+		My Friend Ganesha
+		My Friend Ganesha 2
+		Bal Ganesh
+		Roadside Romeo
+		Saawariya
+		Kal Kissne Dekha
+		Hijack
+		Magadheera
+
 
     10s (12 movies)
         Gangs of Wasseypur – Part 2
@@ -248,6 +301,27 @@
 		Vodka Diaries
 		Game Over
 		Yeh Saali Aashiqui
+		Robot
+		2.0
+		Ra.One
+		Krrish 3
+		Cargo
+		Shamitabh
+		A Flying Jatt
+		Mr. X
+		Creature 3D
+		Warning
+		Toonpur Ka Super Hero
+		Jagga Jasoos
+		Mard Ko Dard Nahi Hota
+		Bhavesh Joshi Superhero
+		Bulbbul
+		7 Khoon Maaf
+		Arjun: The Warrior Prince
+		Hanuman: Da’ Damdaar
+		Bombay Rose
+		Baahubali: The Beginning
+		Baahubali 2: The Conclusion
 
     20s (8 movies )
         Shershaah
@@ -308,6 +382,28 @@
 		IB 71
 		Jalsa
 		Cuttputlli
+		Kalki 2898 AD
+		Brahmāstra: Part One – Shiva
+		Ganapath
+		Loop Lapeta
+		Phone Bhoot
+		Yodha
+		Mission Chapter 1
+		Chandramukhi 2
+		AI: Artificial Intelligence
+		Bade Miyan Chote Miyan
+		Kantara
+		Kantara: A Legend - Chapter 1
+		Ponniyin Selvan I
+		Ponniyin Selvan II
+		Maanaadu
+		Minnal Murali
+		Hanu-Man
+		Kartikeya 2
+		Crazxy
+		Mirai
+
+
 
 
 
